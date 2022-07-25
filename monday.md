@@ -41,3 +41,9 @@
 - We can use the Azure pricing calculator to see how much an entire application would cost per month
 - [Azure Pricing Overview](https://azure.microsoft.com/en-us/pricing/#product-pricing)
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+
+## TODO before next class:
+- Review notes, prepare any questions
+- Get your account, free trial set up with 200 credits
+- If you're able to see the main page once you log in you should be good:
+- ![Home Page](home.png)
