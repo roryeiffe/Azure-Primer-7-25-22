@@ -32,7 +32,7 @@
 - After the resource is created, we click on "Go to Resource"
 - We can view the Security rules on Networking tab on the left
 - We can view the way to connect under "Connect"
-- ex: ssh <user_name>@20.14.96.167 (It won't be exactly this, but it will look similar)
+- ex: ssh <user_name>@20.14.96.167 (It won't be exactly this, but it will look similar), type this into a command promprt/terminal
 - it will ask to confirm, click yes
 - put in your password
 - try out some Linux commands to test it out
@@ -40,7 +40,7 @@
 #### Running a Web Server
 - ```sudo apt-get update```
 - ```sudo apt-get install apache2```
-- To test it out, go to 20.14.96.167 (the public address of the VM) in your search bar
+- To test it out, go to the public address of the VM (ex: 20.14.96.167) in your search bar
 - Make sure we allow HTTP, (port 80) in our security rules
 
 ## Storage
@@ -51,24 +51,26 @@
     - secure
     - managed
     - accessible
+- [Overview](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction)
 
 ### Blob storage
 - unstructured - list of objects, rather than table like you would see in an SQL database
 - can store massive amounts of data
 - storing documents, video, audio, files
 - Blob - binary large object
+- [Overview](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction)
 
 ### Hosting a static website using BLOB Storage
-- create storage account on Azure
-    - just make sure name is unique
+- Create storage account on Azure
+    - Just make sure name is unique
     - Standard Performance
     - Geo-Redundant Storage
 - We can review the other tabs but we don't need to change anything
 - Review + Create, wait for deployment
 - Now, we want to make use of BLOB, go to capabilities tab
-- We click on Create Static Website and give names of index.html and 404.html(sucess and error pages)
+- We click on Create Static Website and give names of index.html and 404.html (sucess and error pages)
 - An Azure Storage Container should be created automatically
-- create 2 local HTML files that match what we specified on the storage account
+- Create 2 local HTML files that match what we specified on the storage account
 - Upload the files into the container
 - Finally, by clicking on the primary endpoint, we should see our html page
 
