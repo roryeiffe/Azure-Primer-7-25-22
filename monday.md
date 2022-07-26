@@ -6,6 +6,7 @@
 - [Overview](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure/)
 - [List of Services that Azure Offers](https://azure.microsoft.com/en-us/products/)
 - [Comparison of AWS to Azure Services](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
+- [Documentation](https://docs.microsoft.com/en-us/azure/?product=popular)
 
 ## Resources
 - [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
@@ -27,6 +28,7 @@
     - which services are available, not all services are available in every region
     - pricing
 - [Azure Region Overview](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)
+- [Browse Products by Region](https://azure.microsoft.com/en-us/global-infrastructure/services/)
 
 ## Pricing
 - Azure is pay-as-you-go, where you only pay for what you use
