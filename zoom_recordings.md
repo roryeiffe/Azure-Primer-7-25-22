@@ -8,3 +8,7 @@
 ### Link: https://revature.zoom.us/rec/share/kTrKB-jI-CEhs4EDKkP80tZKxK3rmEkwnzXve1H9Z8ht71YHcsaXcgd170ot9918.xkdAeJppCopeD6Zc
 ### Passcode: Mf*8&GU4
 
+## Wednesday
+### Date: Jul 27, 2022 09:50 AM Eastern Time (US and Canada)
+### https://revature.zoom.us/rec/share/ezgLQ3Ek1hXNICTBydLUz3x29zfXHh4-k0VDcCDZR2eM2kU-ZgyLA7BMYg6MON94.dY7KNFyEofszDhe2
+### Passcode: 7c*l&kQH
