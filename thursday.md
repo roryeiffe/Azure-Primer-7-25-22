@@ -22,7 +22,7 @@
 - message - a container decorated with metadata and contains data
     - can be JSON, XML, plain text, etc.
 - subscribers can subscribe to a publisher and get messages from the published message stream
-- PaaS, so don't worry about hardware failuers, OS patches, logs, backups
+- PaaS, so don't worry about hardware failures, OS patches, logs, backups
 
 
 ### Queues
@@ -31,7 +31,7 @@
 
 ### Topics
 - topics are useful in publish/subscribe scenarios
-- topics can have multiple subscriptions, act like queues from the receicing side
+- topics can have multiple subscriptions, act like queues from the receiving side
 - a subscription can have a filter, or a condition for the message to be brought into the subscription
 - subscription can also have an action that can modify the metadata of the message
 
@@ -44,16 +44,23 @@
 - dead-letter queue holds messages that cannot be delivered to any receiver
 - Read more about Azure Service Bus [here](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
 
+### Messaging Units
+
 ## Demo
+- First, create a Service Bus on Azure
+    - give it a name, region, resource group
+- Once created, we can make a queue within our Service Bus
+    - give it a name, can leave the other values default
+- We need the connection string to be able to use our service bus
+    - go to the namespace resource (not the queue)
+    - click on Shared Access Policies on the left
+    - Click on RootManagerSharedAccessKey
+    - copy the connection string
+    - it will look something like "Endpoint=sb://rory-demo.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=bG06AWpymtmax+cMEJXVI6S+Zd4EWU40pc90qpEQmGs="
+- finally, we can hop into the Java demo
+- create a simple Java app, I used Maven QuickStart
 
 
-### Domain Driven Design
-- looking at software from top down
-- focus should be on business, rather than technology
-- domain is the business we're trying to solve
-    - banking, insurance, e-commerce
-- models of the domain, make our software conform to that
-- closing te gap between business reality and code
-- ex: Windows 8, well made and looks good, but didn't add features that were helpful/wanted
-- Domain Driven Design is not inherently related to OOP, but in practice it makes use of OOP concepts
-- [Wiki Page](https://en.wikipedia.org/wiki/Domain-driven_design)
+### Exercises
+- replicate the demo from class today
+- study for 1-on-1
