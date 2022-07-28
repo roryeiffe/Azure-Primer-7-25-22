@@ -10,5 +10,10 @@
 
 ## Wednesday
 ### Date: Jul 27, 2022 09:50 AM Eastern Time (US and Canada)
-### https://revature.zoom.us/rec/share/ezgLQ3Ek1hXNICTBydLUz3x29zfXHh4-k0VDcCDZR2eM2kU-ZgyLA7BMYg6MON94.dY7KNFyEofszDhe2
+### Link: https://revature.zoom.us/rec/share/ezgLQ3Ek1hXNICTBydLUz3x29zfXHh4-k0VDcCDZR2eM2kU-ZgyLA7BMYg6MON94.dY7KNFyEofszDhe2
 ### Passcode: 7c*l&kQH
+
+## Thursday
+### Date: Jul 28, 2022 09:55 AM Eastern Time (US and Canada)
+### Link: https://revature.zoom.us/rec/share/5YlFN5cEhqSQ5O3xtd_l8Aatm54WsF2e_2Hr34K8iY7mjvdQugPvfjlvjG-9MWgz.NFctj-cWigdMsE4N
+### Passcode: !TrNB3Wu
