@@ -26,7 +26,7 @@ Here are some questions to practice in preparation for Friday's 1-on-1:
 ## Messaging
 1. What is Messaging?
 2. What is the Azure Service Bus?
-3. Tell me about the Publisher/Subscribe Design Pattern. 
+3. Tell me about the Publisher/Subscriber Design Pattern. 
 4. What is Domain Driven Design?
 
 ## Azure DevOps

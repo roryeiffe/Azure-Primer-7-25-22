@@ -17,3 +17,8 @@
 ### Date: Jul 28, 2022 09:55 AM Eastern Time (US and Canada)
 ### Link: https://revature.zoom.us/rec/share/5YlFN5cEhqSQ5O3xtd_l8Aatm54WsF2e_2Hr34K8iY7mjvdQugPvfjlvjG-9MWgz.NFctj-cWigdMsE4N
 ### Passcode: !TrNB3Wu
+
+## Friday
+### Date: Jul 29, 2022 09:52 AM Eastern Time (US and Canada)
+### Link: https://revature.zoom.us/rec/share/kvQ6yCGaozhNfYqahNTSrpWJEsVOS745rck-6P_EDiyDDIr8Cw4XooHwVGqm0i1d.IhAyPXFHkB-M8ZCd
+### Passcode: Xp=N6T$1
